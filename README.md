@@ -10,6 +10,8 @@ About this project, I realized that I tried use some techniques "fluid layout" a
 
 Also is interesting look for layout that reflect another time, made for 800x600 resolution and start to think about technologies changes in the World throughout the time.
 
+Do you stopped to think about that we've bought things like DVDs to can watch a movie? 😂
+
 Talking about the code, CSS and HTML have changed a lot but the mainly specifications follows the same:
 
 - HTML care about semantic
