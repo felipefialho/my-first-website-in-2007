@@ -1,0 +1,332 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-color:#000;
+}
+
+#tudo{
+	background:#E9E9E9;
+}
+
+/*Topo*/
+
+
+#cabecalho{
+	background: #000;
+	height:105px;
+	background-image:url(../imagens/topo.jpg);
+	background-repeat:no-repeat;
+}
+
+#cabecalho h1 {
+  text-indent:-100em;
+  font-size:1px;
+}
+
+/*Corpo*/
+
+
+#principal
+{
+	float:left;
+	width:100%;
+}
+
+/*Conteudo*/
+
+
+#conteudo{
+	background:#E9E9E9;
+	margin:0 120px 0 150px;
+	padding-left: 20px;
+}
+
+.salto{
+	margin-top:30px;
+}
+
+.salto a{
+color:#643200;
+font-size:11px;
+text-decoration:none;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+.salto a:hover{
+	text-decoration:underline;
+}
+
+#conteudo h3{
+	color:#643200;
+	font-size:20px;
+	margin-top:40px;
+	margin-left:30px;
+}
+
+.info{
+	margin-bottom:50px;
+	margin-top:50px;
+	width: 350px;
+	margin-left:60px;
+}
+
+.info a{
+	color:#333333;
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bolder;
+	float:right;
+	margin-bottom: 7px;
+}
+
+.info a:hover{
+	text-decoration:underline;
+}
+
+.img{
+	height:180px;
+	width:180px;
+	float:left;
+	margin-bottom:10px;
+}
+
+#valor{
+	width:170px;
+	float:right;
+	margin-top:10px;
+}
+
+#valor p{
+	color:#643200;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	padding:0;
+	margin:0;
+}
+
+.org_compra{
+	width:140px;
+	float:right;
+	margin-top:20px;
+	padding-right:25px;
+}
+
+.comprar{
+	margin-top:8px;
+	height:52px;
+	width:48px;
+	float:right;
+}
+
+.desejos{
+	margin-top:30px;
+	padding-right:10px;
+	float:left;
+	width:70px;
+}
+
+.info p{
+	color:#333333;
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	margin-top:8px;
+	clear:both;
+	padding-left:30px;
+	margin-bottom: 2px;
+}
+
+a.detalhes{
+	color:#666666;
+	font-size:11px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-decoration:underline;
+	float:left;
+	margin-left:30px;
+}
+
+.titulo_filmes a{
+	float:left;
+}
+
+/*Menu lateral*/
+#menu{
+	background:#FBC79B;
+	width: 140px;
+	float:left;
+	margin-left:-100%;
+	margin-top: 18px;
+	margin-bottom: 20px;
+	padding-left: 10px;
+	background-image:url(../imagens/menu.jpg);
+	background-repeat:no-repeat;
+}
+
+#menu h2{  
+	text-indent:-9999em;
+}
+
+#menu ul {
+	float: left;
+	width: 100%;
+	list-style:none;
+	margin: 20px auto;
+	padding-left:0;
+	padding-bottom: 7px;
+}
+
+#menu ul li a {
+	color: #000;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#menu ul li a:hover {
+	text-decoration:underline;
+}
+#menu ul a{
+	margin: 10px auto;
+	padding-left:5px;
+}
+#menu p{
+	font-weight:800;
+	margin-top: 20px;
+	font-size:11px;
+	font-family:Verdana,Arial, Helvetica, sans-serif;
+}
+
+/*Publicidade*/
+#publicidade
+{
+	float:left;
+	width:120px;
+	margin-left:-120px;
+	margin-top: 18px;
+	background-color:#000000;
+	background-image:url(../imagens/plub.jpg);
+	background-repeat:no-repeat;
+}
+
+#conteudo-publicidade
+{
+	float:left;
+	width:120px;
+	background-position:bottom;
+	background-image:url(../imagens/plub_rod.jpg);
+	background-repeat:no-repeat;
+}
+
+.banners
+{
+	color:#FFFFFF;
+	margin: 35px 0;
+	padding-left: 7px;
+}
+
+/*Menu do topo*/
+#menu_topo ul {
+	list-style: none;
+}
+#menu_topo ul {
+	float: left;
+	width: 100%;
+	background:#000;
+	list-style:none;
+}
+#menu_topo ul li { 
+	display: inline; 
+}
+#menu_topo ul li a {
+	padding: 1px 10px;
+	float:left;
+	color: #FFF;
+	text-decoration: none;
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+#menu_topo ul li a:hover {
+	color:#FF9933;
+}
+
+#menu_topo ul li a:active {
+	color:#FF9900;
+}
+
+#menu_topo ul li p {
+	padding: 1px 10px;
+	float:left;
+	color: #FFF;
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+	
+/*Rodapé*/
+#rodape{
+	background:#000000;
+	width: 100%;
+	clear:both;
+}
+#rodape p{
+	color:#fff;
+	padding: 5px 5px;
+	font-size:11px;
+	font-family:Verdana,Arial, Helvetica, sans-serif;
+}
+#rodape a{
+	color:#FF9933;
+	text-decoration:none;
+	font-size:11px;
+	font-family:Verdana,Arial, Helvetica, sans-serif;
+}
+#rodape a:hover{
+	text-decoration:underline;
+	color:#FFF;
+}
+#rodape ul {
+	list-style: none;
+}
+#rodape ul {
+	float: right;
+	width: 100%;
+	background:#000;
+	list-style:none;
+}
+#rodape ul li { 
+	display: inline; 
+}
+#rodape ul li a {
+	padding: 0;
+	float:right;
+	color: #FFF;
+	text-decoration: none;
+	font-size:10px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	padding: 0 5px 9px 5px;
+}
+#rodape ul li a:hover {
+	color:#FF9933;
+}
+#rodape ul li a:active {
+	color:#FF9900;
+}
+#rodape ul li p {
+	padding: 0;
+	float:right;
+	color: #FFF;
+	font-size:10px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+	
+
+/*Busca*/
+#busca{
+	float:right;
+	margin-top: 70px;
+	margin-right: 70px;
+}
+
