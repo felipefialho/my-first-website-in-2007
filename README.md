@@ -1,6 +1,6 @@
 # My First Website - Made in 2007 😱
 
-This is my first experimental website, made in 2007 during some task of my graduation. I've searching for it during a lot of time until finally found in my old email box.
+This was my first experimental website, made in 2007 during some task of my graduation. I've searching for it during a lot of time until finally found in my old email box.
 
 Is really nice and funny imagine me as teenager with 16 years old working about this prototype without know about nothing of the future that was waiting me and as that codes would be responsible to completely change me life in the future 😊
 
